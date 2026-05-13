@@ -1,5 +1,12 @@
 # Solidificação de Níquel 
 
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.21+-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5+-11557C)
+![Pandas](https://img.shields.io/badge/Pandas-1.4+-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.7+-8CAAE6&logo=scipy&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-success)
+
 Projeto desenvolvido para análise e visualização do processo de solidificação de níquel utilizando processamento de imagens e extração de características microestruturais.
 
 ## Objetivo

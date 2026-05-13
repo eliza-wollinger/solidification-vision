@@ -1,5 +1,4 @@
 # Solidificação de Níquel 
-# Análise de Microestrutura
 
 Projeto desenvolvido para análise e visualização do processo de solidificação de níquel utilizando processamento de imagens e extração de características microestruturais.
 

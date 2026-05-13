@@ -1,4 +1,5 @@
-# Solidificação de Níquel — Análise de Microestrutura
+# Solidificação de Níquel 
+# Análise de Microestrutura
 
 Projeto desenvolvido para análise e visualização do processo de solidificação de níquel utilizando processamento de imagens e extração de características microestruturais.
 
@@ -8,8 +9,14 @@ O objetivo deste projeto é explorar técnicas de:
 
 - processamento de imagens científicas;
 - detecção de interfaces;
+  
+  ![detect_contour.png](https://github.com/eliza-wollinger/solidification-vision/blob/main/assets/detect_contour.png)
+  
 - análise temporal da solidificação;
-- extração de features microestruturais;
+
+![temporal_soliditication](https://github.com/eliza-wollinger/solidification-vision/blob/main/assets/temporal_solidification.png)
+![temporal_vision](https://github.com/eliza-wollinger/solidification-vision/blob/main/assets/temporal_evolution.png)
+
 - visualização científica de dados.
 
 O estudo utiliza sequências de imagens da base:
@@ -24,20 +31,6 @@ skimage.data.nickel_solidification()
 - scikit-image
 - SciPy
 - Pandas
-
-## Funcionalidades
-- Processamento de imagem
-- Suavização Gaussiana
-- Detecção de gradientes
-- Segmentação da interface sólido/líquido
-- Extração de contornos
-
-
-- Análise temporal
-- Evolução da interface de solidificação
-- Comparação entre frames
-- Visualização da dinâmica microestrutural
-- Extração de features
 
 ## Parâmetros analisados:
 - rugosidade;

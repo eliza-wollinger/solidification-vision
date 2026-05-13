@@ -7,6 +7,10 @@ Projeto desenvolvido para análise e visualização do processo de solidificaç�
 O objetivo deste projeto é explorar técnicas de:
 
 - processamento de imagens científicas;
+
+![gif](https://github.com/eliza-wollinger/solidification-vision/blob/main/assets/gif1.gif)
+![gif](https://github.com/eliza-wollinger/solidification-vision/blob/main/assets/gif2.gif)
+  
 - detecção de interfaces;
   
   ![detect_contour.png](https://github.com/eliza-wollinger/solidification-vision/blob/main/assets/detect_contour.png)
